@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390488393876",
+    "firebase_url": "https://airdataapp-5c6db.firebaseio.com",
+    "project_id": "airdataapp-5c6db",
+    "storage_bucket": "airdataapp-5c6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390488393876:android:12648eb738710f00d0cc81",
+        "android_client_info": {
+          "package_name": "com.example.airdataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390488393876-1vefe89dbvp1mpr3d98j9mlnhruis9cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airdataapp",
+            "certificate_hash": "4925ad014285588d6cea55d0ba1b4264a54e12f4"
+          }
+        },
+        {
+          "client_id": "390488393876-o6bcmthu0b84bpj923ruituto7kgt4vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDob-4dfmMJy2RPPHn601Cd1lDRFADvW3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390488393876-o6bcmthu0b84bpj923ruituto7kgt4vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
